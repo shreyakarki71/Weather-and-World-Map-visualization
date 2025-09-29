@@ -4,7 +4,7 @@ This repository contains two Python data visualization projects from *Python Cra
 They demonstrate how to read, process, and visualize real-world datasets using Python, Pandas, Matplotlib, and Plotly.
 
 
-## 🌦 1. Weather Data Visualization (2014)
+##  1. Weather Data Visualization (2014)
 Reads a CSV file of weather data for 2014, extracts high and low daily temperatures, and plots them over time.
 
 **Features:**
@@ -19,7 +19,7 @@ Reads a CSV file of weather data for 2014, extracts high and low daily temperatu
 
 ---
 
-## 🌍 2. World Population Map (2010)
+##  2. World Population Map (2010)
 **Description:**  
 Reads JSON data of world populations and generates an interactive choropleth map using Plotly.
 
@@ -34,7 +34,7 @@ Reads JSON data of world populations and generates an interactive choropleth map
 - `population_map.py` – Python script for map generation.
 - `world_population_example.png` – Example map screenshot.
 
-## 🛠 Technologies Used
+## Technologies Used
 - **Python**
 - **Pandas** – Data analysis and transformation.
 - **Matplotlib** – Static charts and plots.
